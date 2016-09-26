@@ -7,4 +7,4 @@ Why might you want to always pull changes manually rather than having Git automa
 	
 	because if I might not always want the latest changes made on the repository, for example if I was
 	working on a feature and it was built on certain commits I wouldn't want to change these commits
-	git might merge them or whatever 
+	git might merge them or whatever
