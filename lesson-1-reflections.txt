@@ -26,13 +26,18 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    git log shows the commits that were made to the project from the most recent
+    you can use it to select commits IDs and then use git diff to show the 
+    changes that were made between the 2 IDs that are passed as arguments to git diff
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Because when you can use Branches which allow you to build upon your project
+    without affecting the current state of it, which you can always go back to
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    Android projects at first since they are the most complex type of projects
+    I'm currently wokring on, and maybe later I wanna use it with Eclipse when
+    I develop java progeams
